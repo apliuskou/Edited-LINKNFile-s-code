@@ -1,0 +1,6 @@
+C:\GitHub\TestDataGenerator\TestDataGenerator\bin\Debug\TestDataGenerator.exe.config
+C:\GitHub\TestDataGenerator\TestDataGenerator\obj\Debug\TestDataGenerator.csprojResolveAssemblyReference.cache
+C:\GitHub\TestDataGenerator\TestDataGenerator\bin\Debug\TestDataGenerator.exe
+C:\GitHub\TestDataGenerator\TestDataGenerator\bin\Debug\TestDataGenerator.pdb
+C:\GitHub\TestDataGenerator\TestDataGenerator\obj\Debug\TestDataGenerator.exe
+C:\GitHub\TestDataGenerator\TestDataGenerator\obj\Debug\TestDataGenerator.pdb
